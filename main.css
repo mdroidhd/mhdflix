@@ -104,7 +104,7 @@ header {
 
 .box {
   display: grid;
-  grid-gap: 20px;
+  grid-gap: 3%;
   grid-template-columns: repeat(6, minmax(100px, 1fr));
 }
 
@@ -278,8 +278,37 @@ footer {
     font-size: 15px;
   }
 
-  
 
-  
-   
+.fondo{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.5);
+}
+
+
+}
+.lista{
+  list-style: none;
+  padding-left: 5px;
+}
+li{
+  float: left;
+}
+.game{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.game:hover{
+  border: solid 2px red;
+  border-radius: 7px;
+}
+.titgame{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
 }
