@@ -1,4 +1,8 @@
 
+function generar(){
+    document.getElementById("enlace").href="Falcon.html"
+}
+
 function tom(){
 
     document.getElementById("titulo").innerHTML="tom";

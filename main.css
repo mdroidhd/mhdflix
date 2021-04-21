@@ -1,3 +1,13 @@
+body::-webkit-scrollbar{
+  width: 7px;
+}
+body::-webkit-scrollbar-thumb{
+  background:rgba(255,255,255,0.8);
+  border-radius: 5px;
+}
+
+
+
 /* CSS VARIABLES */
 :root {
   --primary: #141414;
@@ -6,7 +16,7 @@
 }
 
 html, body {
-  width: 100vw;
+  width: 100%;
   min-height: 100vh;
   margin: 0;
   padding: 0;
@@ -99,12 +109,12 @@ header {
 
 /* MAIN CONTIANER */
 .main-container {
-  padding: 50px;
+  padding: 30px;
 }
 
 .box {
   display: grid;
-  grid-gap: 3%;
+  grid-gap: 10px;
   grid-template-columns: repeat(6, minmax(100px, 1fr));
 }
 
@@ -114,13 +124,13 @@ header {
 
 .box a:hover {
   transition: transform .3s;
-  -ms-transform: scale(1.4);
-  -webkit-transform: scale(1.4);  
-  transform: scale(1.4);
+  -ms-transform: scale(1.6);
+  -webkit-transform: scale(1.6);  
+  transform: scale(1.6);
 }
 
 .box img {
-  border-radius: 2px;
+  border-radius: 10px;
 }
 
 /* LINKS */
