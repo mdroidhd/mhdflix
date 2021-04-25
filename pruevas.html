@@ -5,42 +5,76 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>pruevas</title>
-    <script src="main.js"></script>
+    <script src="js/main.js"></script>
     <style>
-        .fondo{
-                
-            background-color: rgba(0, 0, 0, 0.5);
+        .fondo:target{
+            display: block;
         }
+        .fondo{
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .fondo div{
+            margin: 20%;
+            text-align: center;
+            color: white;
+        }
+        .block {
+            width: 50px;
+            height: 50px;
+            
+        }
+        .block:hover{
+            background-color: rgb(175, 104, 104);
+        }
+        .img1 h2 {
+            color: rgb(122, 29, 29);
+        }
+        .boton{
+            text-decoration: none;
+            font-size: 15px;
+            color: white;
+            position: fixed;
+            margin: 5px;
+            padding: 10px;
+            left: 50%;
+            border: solid black;
+            border-radius: 7px;
+            
+        }
+        .boton:hover{
+            color: black;
+            background-color: rgba(255,255,255,0.5)
+        }
+   
         
         
     </style>
-</head>
-<body>
-<a href="#img"><img src="Esenciales/logo.png" alt=""></a>
+    
         
-  
- <div class="fondo">
+</head>
+<script src="js/adblock.js"></script>
+<body>
+<a href="#img"><img src="img/logo.png" alt=""></a>
+        
 
-    <div class="img1" id="img">
-        <img src="Esenciales/logo.png"  alt="">
+ <div class="fondo" id="img">
+    <a href="#" class="boton">X</a>
+    <div class="img1">
+        <h1>Por favor use Adblock</h1>
+        <a class="block" href="https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb" target="_blank"><img class="block" src="img/adblock.png" alt=""></a>
+        <h2> Ya que esta pagina contiene publicidad. Para mejor experiencia </h2>
     </div>
+
+    
     
  </div>
-    
-   
- .img1:target{
-    display: block;
-}
-.img1{
-    display: none;
-    
-}
-.img1 img{
-    display: block;
-    width: 100%;
-    margin: auto;
-    vertical-align: middle;
-   
-}
+
 </body>
 </html>
