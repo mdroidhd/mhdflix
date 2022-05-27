@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal -->
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <!-- <title>Popup Login Form Design | CodingNepal</title> -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="center" id="box">
+        <div class="container">
+            <form action="#">
+                <div class="data">
+                    <label>Email</label>
+                    <input id="inEmail" type="text" required>
+                </div>
+                <div class="data">
+                    <label>Contraseña</label>
+                    <input id="inPassword" type="password" required>
+                </div>
+                <div class="btn">
+                    <div class="inner">
+                    </div>
+                    <button type="submit">login</button>
+                </div>
+                <div class="signup-link" id="ResLogin"></div>
+            </form>
+        </div>
+    </div>
+    <div style="display: none;" id="box2"  class="center">
+        <div class="container">
+            <form action="#">
+                <div class="data">
+                    <label><a href="https://www.themoviedb.org/">TMDB</a></label>
+                    <input type="text" id="tmdbID" required>
+                </div>
+                <div class="data">
+                    <label>Video Link</label>
+                    <input type="text" id="link" required>
+                </div>
+                <div class="data">
+                    <label>Youtube</label>
+                    <input type="text" id="yt" required>
+                </div>
+                <div class="btn" >
+                    <div class="inner">
+                    </div>
+                    <button id="agregar" type="submit">Agregar</button>
+                    
+                </div>
+                <div class="signup-link" id="ResTMDB"></div>
+            
+                    
+            </form>
+        </div>
+    </div>
+    
+</body>
+<script type="module" src="login.js"></script>
+</html>
