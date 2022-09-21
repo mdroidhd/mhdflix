@@ -1,11 +1,39 @@
 {
-    "android": "1.0.4",
+    "android": "1.0.5",
     "url": "https://github.com/mdroidhd/mhdflix/raw/main/Release/app-release.apk",
-    "contentUpdate": "Se a mejorado el rendimiento de carga",
+    "contentUpdate": "Se a corregido el apartado de las series",
     "movie": [{
-            "id": 373,
+            "id": 466,
+            "title": "Wonder Woman 1984",
+            "tmdb": "464052",
+            "provider": "Amazon",
+            "logo": "",
+            "link": [{
+                "link": "https://fembed.com/v/em288i-jxw22zk7",
+                "lang": "",
+                "quality": "",
+                "webPlayer": false
+            }],
+            "content": "En 1984, en plena guerra fría, Diana Prince, conocida como Wonder Woman se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas.",
+            "poster": "/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg",
+            "release_date": "2020",
+            "runtime": "2h 31m",
+            "trailer": [
+                "uaPbtACMxdQ"
+            ],
+            "genres": [
+                "Acción",
+                "Aventura",
+                "DC",
+                "Fantasía"
+            ]
+        },
+        {
+            "id": 465,
             "title": "Inhumano (Unhuman)",
             "tmdb": "839678",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/xpegzh5gq1qw161",
                 "lang": "Latin",
@@ -18,14 +46,16 @@
             "runtime": "1h 27m",
             "trailer": [],
             "genres": [
-                "Horror",
-                "Comedy"
+                "Comedia",
+                "Terror"
             ]
         },
         {
-            "id": 370,
+            "id": 464,
             "title": "The Batman",
             "tmdb": "414906",
+            "provider": "Amazon",
+            "logo": "/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png",
             "link": [{
                 "link": "https://www.fembed.com/v/pwpgmsm-e7edqy3",
                 "lang": "Latin",
@@ -42,15 +72,18 @@
                 "UXGaMIJPg40"
             ],
             "genres": [
-                "Crime",
-                "Mystery",
-                "Thriller"
+                "Crimen",
+                "DC",
+                "Misterio",
+                "Suspense"
             ]
         },
         {
-            "id": 367,
+            "id": 463,
             "title": "Déjate llevar",
             "tmdb": "778106",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/8q-0zf8d0pmnpg3",
                 "lang": "Latin",
@@ -63,14 +96,16 @@
             "runtime": "1h 46m",
             "trailer": [],
             "genres": [
-                "Romance",
-                "Drama"
+                "Drama",
+                "Romance"
             ]
         },
         {
-            "id": 364,
+            "id": 462,
             "title": "Clean",
             "tmdb": "689700",
+            "provider": "Amazon",
+            "logo": "/5mbBz8EDF4LcNKFpfPjreE9uy2n.png",
             "link": [{
                 "link": "https://www.fembed.com/v/dzl5xfx2e88emnj",
                 "lang": "Latin",
@@ -83,15 +118,17 @@
             "runtime": "1h 34m",
             "trailer": [],
             "genres": [
-                "Crime",
+                "Crimen",
                 "Drama",
-                "Thriller"
+                "Suspense"
             ]
         },
         {
-            "id": 361,
+            "id": 461,
             "title": "Obi-Wan Kenobi: El Regreso del Jedi",
             "tmdb": "1015606",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/6z-72f078508m7j",
                 "lang": "Latin",
@@ -104,13 +141,15 @@
             "runtime": "1h 0m",
             "trailer": [],
             "genres": [
-                "Documentary"
+                "Documental"
             ]
         },
         {
-            "id": 357,
+            "id": 460,
             "title": "Alien: Covenant",
             "tmdb": "126889",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/wrlgkunrzjl3dk7",
                 "lang": "Latin",
@@ -125,18 +164,20 @@
                 "_O6YW4Rxubk"
             ],
             "genres": [
-                "Horror",
-                "Science Fiction",
-                "Mystery"
+                "Ciencia ficción",
+                "Misterio",
+                "Terror"
             ]
         },
         {
             "id": 334,
             "title": "Thor: Love and Thunder",
             "tmdb": "616037",
+            "provider": "Amazon",
+            "logo": "/sR0hyRuXG3xnkC9pKkZvxzORQ4.png",
             "link": [{
                 "link": "https://www.fembed.com/v/mgy00s5qe-egm26",
-                "lang": "Castellano",
+                "lang": "subtituloado ingles",
                 "quality": "Full HD",
                 "webPlayer": false
             }],
@@ -149,15 +190,17 @@
                 "nGpH8MedZH4"
             ],
             "genres": [
-                "Fantasy",
-                "Action",
-                "Comedy"
+                "Acción",
+                "Aventura",
+                "Fantasía"
             ]
         },
         {
             "id": 330,
             "title": "Mis dos vidas",
             "tmdb": "805327",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/x4dxlu5gz8lgm4n",
                     "lang": "Latin",
@@ -177,15 +220,17 @@
             "runtime": "1h 50m",
             "trailer": [],
             "genres": [
-                "Romance",
+                "Comedia",
                 "Drama",
-                "Comedy"
+                "Romance"
             ]
         },
         {
             "id": 254,
             "title": "The Amazing Spider-Man 2: El poder de Electro",
             "tmdb": "102382",
+            "provider": "Amazon",
+            "logo": "/pCuPf4lcfry1QoWeUGevnIDPVEC.png",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233iey7d8rz1n",
                 "lang": "Castellano",
@@ -200,15 +245,17 @@
                 "BQq8z6o3aJk"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Fantasy"
+                "Acción",
+                "Aventura",
+                "Fantasía"
             ]
         },
         {
             "id": 251,
             "title": "Spider-Man",
             "tmdb": "557",
+            "provider": "Amazon",
+            "logo": "/jm1Lv8eTW8GGkzTjxwTQ2BcuIzW.png",
             "link": [{
                 "link": "https://www.fembed.com/v/5kd33cd3npmlj4x",
                 "lang": "Castellano",
@@ -223,14 +270,16 @@
                 "9-eKNlraMJA"
             ],
             "genres": [
-                "Fantasy",
-                "Action"
+                "Acción",
+                "Fantasía"
             ]
         },
         {
             "id": 248,
             "title": "Fast & Furious: Hobbs & Shaw",
             "tmdb": "384018",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/dzk88cx2w1m-lmj",
                 "lang": "Castellano",
@@ -245,15 +294,17 @@
                 "LlIU1o2iyjw"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Comedy"
+                "Acción",
+                "Aventura",
+                "Comedia"
             ]
         },
         {
             "id": 238,
             "title": "Nop",
             "tmdb": "762504",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://fembed.com/v/l8nddfnmz6np7x7",
                 "lang": "Latin",
@@ -268,16 +319,18 @@
                 "PFFV33DKR6Q"
             ],
             "genres": [
-                "Horror",
-                "Mystery",
-                "Science Fiction",
-                "Thriller"
+                "Ciencia ficción",
+                "Misterio",
+                "Suspense",
+                "Terror"
             ]
         },
         {
             "id": 228,
             "title": "Minions: El origen de Gru",
             "tmdb": "438148",
+            "provider": "Amazon",
+            "logo": "/2tHEeYyrrw4VwydLdILcgSI5ENm.png",
             "link": [{
                     "link": "https://www.fembed.com/v/2r4wwc2488d6yyg",
                     "lang": "Latin",
@@ -299,16 +352,19 @@
                 "EgXQmSW16YY"
             ],
             "genres": [
-                "Animation",
-                "Adventure",
-                "Comedy",
-                "Fantasy"
+                "Animación",
+                "Aventura",
+                "Comedia",
+                "Familia",
+                "Fantasía"
             ]
         },
         {
             "id": 209,
             "title": "Dark Cloud",
             "tmdb": "897424",
+            "provider": "Amazon",
+            "logo": "/q6vNHgFMvwSDvjAgsPFWM5V7AHp.png",
             "link": [{
                 "link": "https://fembed.com/v/r4yzzaen5zewkx1",
                 "lang": "Castellano",
@@ -321,15 +377,17 @@
             "runtime": "1h 21m",
             "trailer": [],
             "genres": [
-                "Science Fiction",
-                "Horror",
-                "Thriller"
+                "Ciencia ficción",
+                "Suspense",
+                "Terror"
             ]
         },
         {
             "id": 204,
             "title": "Despierta la furia",
             "tmdb": "637649",
+            "provider": "Amazon",
+            "logo": "/u0mUUFk9owtYlBwWxKpSKC2SQcX.png",
             "link": [{
                     "link": "https://www.fembed.com/v/-4zwwap882dzpq4",
                     "lang": "",
@@ -351,15 +409,17 @@
                 "CQgBahCGHUk"
             ],
             "genres": [
-                "Action",
-                "Crime",
-                "Thriller"
+                "Acción",
+                "Crimen",
+                "Suspense"
             ]
         },
         {
             "id": 200,
             "title": "Ambulance. Plan de huida",
             "tmdb": "763285",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/q3ykkce713z0lrj",
                 "lang": "Castellano",
@@ -374,15 +434,17 @@
                 "1k7o3GUDsiQ"
             ],
             "genres": [
-                "Action",
-                "Thriller",
-                "Crime"
+                "Acción",
+                "Crimen",
+                "Suspense"
             ]
         },
         {
             "id": 196,
             "title": "Ainbo: La guerrera del Amazonas",
             "tmdb": "588921",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/8qp77i84lqy1m6l",
                 "lang": "Castellano",
@@ -397,16 +459,18 @@
                 "TO3Zw15GKyw"
             ],
             "genres": [
-                "Adventure",
-                "Animation",
-                "Family",
-                "Fantasy"
+                "Animación",
+                "Aventura",
+                "Familia",
+                "Fantasía"
             ]
         },
         {
-            "id": 192,
+            "id": 452,
             "title": "Disomnia",
             "tmdb": "615658",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/103wwcj75dlpg3q",
                 "lang": "Castellano",
@@ -419,15 +483,40 @@
             "runtime": "1h 36m",
             "trailer": [],
             "genres": [
+                "Ciencia ficción",
                 "Drama",
-                "Science Fiction",
-                "Thriller"
+                "Suspense"
+            ]
+        },
+        {
+            "id": 192,
+            "title": "Disomnia",
+            "tmdb": "615658",
+            "provider": "Amazon",
+            "logo": "",
+            "link": [{
+                "link": "https://www.fembed.com/v/103wwcj75dlpg3q",
+                "lang": "Castellano",
+                "quality": "Full HD",
+                "webPlayer": false
+            }],
+            "content": "Tras un suceso global repentino que acaba con todos los dispositivos electrónicos y con la capacidad para dormir de la humanidad, el caos comienza a consumir el mundo rápidamente. Solo Jill, un exsoldado con un pasado problemático, podría tener la clave de la cura en su propia hija. La cuestión es ¿podrá Jill entregar a su hija de manera segura y salvar al mundo antes de que ella misma pierda la cabeza?",
+            "poster": "/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg",
+            "release_date": "2021",
+            "runtime": "1h 36m",
+            "trailer": [],
+            "genres": [
+                "Ciencia ficción",
+                "Drama",
+                "Suspense"
             ]
         },
         {
             "id": 189,
             "title": "Doctor Strange en el multiverso de la locura",
             "tmdb": "453395",
+            "provider": "Amazon",
+            "logo": "/6PaRKeCVDysn8OuwwCButVJzuh7.png",
             "link": [{
                 "link": "https://www.fembed.com/v/-4zwwap32r6k7wd",
                 "lang": "Castellano",
@@ -448,15 +537,17 @@
                 "t_khTGpoIQY"
             ],
             "genres": [
-                "Fantasy",
-                "Action",
-                "Adventure"
+                "Acción",
+                "Aventura",
+                "Fantasía"
             ]
         },
         {
             "id": 183,
             "title": "Mechanic: Resurrection",
             "tmdb": "278924",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/zk744cjqgdqp0dr",
                     "lang": "Castellano",
@@ -478,15 +569,17 @@
                 "H-UAuf1ik-o"
             ],
             "genres": [
-                "Action",
-                "Crime",
-                "Thriller"
+                "Acción",
+                "Crimen",
+                "Suspense"
             ]
         },
         {
             "id": 159,
             "title": "Fast & Furious 5",
             "tmdb": "51497",
+            "provider": "Amazon",
+            "logo": "/vWqiN7WFNyxwOYZ924zdUTDE7NX.png",
             "link": [{
                 "link": "https://www.fembed.com/v/wr3eecnyp1k5n22",
                 "lang": "Castellano",
@@ -503,15 +596,17 @@
                 "3v_aL1cRONo"
             ],
             "genres": [
-                "Action",
-                "Thriller",
-                "Crime"
+                "Acción",
+                "Crimen",
+                "Suspense"
             ]
         },
         {
             "id": 156,
             "title": "G.I. Joe: Snake Eyes",
             "tmdb": "568620",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/2r4wwc2mg7jeypn",
                 "lang": "Castellano",
@@ -526,14 +621,16 @@
                 "UOsIaM6A5ZU"
             ],
             "genres": [
-                "Action",
-                "Adventure"
+                "Acción",
+                "Aventura"
             ]
         },
         {
             "id": 151,
             "title": "Morbius",
             "tmdb": "526896",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/g5q88c-5gjp46pg",
                     "lang": "Castellano",
@@ -555,15 +652,17 @@
                 "I4kD3s4GFAY"
             ],
             "genres": [
-                "Action",
-                "Science Fiction",
-                "Fantasy"
+                "Acción",
+                "Ciencia ficción",
+                "Fantasía"
             ]
         },
         {
             "id": 145,
             "title": "Godzilla: Rey de los Monstruos",
             "tmdb": "373571",
+            "provider": "Amazon",
+            "logo": "/y3hS5daf3ytCqqjtuPI2lU8HAYQ.png",
             "link": [{
                     "link": "https://www.fembed.com/v/g5q88c-k3-d3p0x",
                     "lang": "Castellano",
@@ -587,14 +686,16 @@
                 "J31XTtOSNcM"
             ],
             "genres": [
-                "Science Fiction",
-                "Action"
+                "Acción",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 130,
             "title": "Uncharted",
             "tmdb": "335787",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/427wwbzr70yrr7l",
                 "lang": "Castellano",
@@ -612,14 +713,16 @@
                 "53bVf9JlqQ4"
             ],
             "genres": [
-                "Action",
-                "Adventure"
+                "Acción",
+                "Aventura"
             ]
         },
         {
             "id": 127,
             "title": "Enemigo inmortal",
             "tmdb": "460648",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/wr3eecn4pl1k87z",
                 "lang": "Castellano",
@@ -634,15 +737,17 @@
                 "-b6GE5ufA8U"
             ],
             "genres": [
-                "Action",
-                "Science Fiction",
-                "Thriller"
+                "Acción",
+                "Ciencia ficción",
+                "Suspense"
             ]
         },
         {
             "id": 124,
             "title": "El Proyecto Adam",
             "tmdb": "696806",
+            "provider": "Amazon",
+            "logo": "/nURceh6rHmRZ0cDAN6H16eS0KCv.png",
             "link": [{
                 "link": "https://www.fembed.com/v/zk744cjy-z7e3jd",
                 "lang": "Castellano",
@@ -657,16 +762,18 @@
                 "ewrZh1kfDH0"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Comedy",
-                "Science Fiction"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción",
+                "Comedia"
             ]
         },
         {
             "id": 121,
             "title": "Hitman: Agente 47",
             "tmdb": "249070",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233iednql076n",
                 "lang": "Castellano",
@@ -681,15 +788,17 @@
                 "k8Gj3I9k7qA"
             ],
             "genres": [
-                "Action",
-                "Crime",
-                "Thriller"
+                "Acción",
+                "Crimen",
+                "Suspense"
             ]
         },
         {
             "id": 118,
             "title": "Spider-Man: No Way Home",
             "tmdb": "634649",
+            "provider": "Amazon",
+            "logo": "/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
             "link": [{
                 "link": "https://www.fembed.com/v/5kd33cdpr84m5p-",
                 "lang": "Castellano",
@@ -704,15 +813,17 @@
                 "Df00ZNYEcAY"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Science Fiction"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 112,
             "title": "La gran fuga",
             "tmdb": "404733",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/kxy77i326481n0e",
                 "lang": "Castellano",
@@ -727,15 +838,17 @@
                 "AawYNJZyHvI"
             ],
             "genres": [
-                "Thriller",
-                "Action",
-                "Mystery"
+                "Acción",
+                "Misterio",
+                "Suspense"
             ]
         },
         {
             "id": 109,
             "title": "Ejército de los ladrones",
             "tmdb": "796499",
+            "provider": "Amazon",
+            "logo": "/bD2VhvMCLbqAM8mCrFeeRYmyF6Z.png",
             "link": [{
                 "link": "https://diasfem.com/v/103wwcj1wggqdwj",
                 "lang": "Castellano",
@@ -750,14 +863,16 @@
                 "XO8RTGHm-0s"
             ],
             "genres": [
-                "Crime",
-                "Comedy"
+                "Comedia",
+                "Crimen"
             ]
         },
         {
             "id": 106,
             "title": "Men in Black: International",
             "tmdb": "479455",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/em288i-26yy2q1j",
                 "lang": "Castellano",
@@ -772,14 +887,16 @@
                 "7pehS-Wg6R8"
             ],
             "genres": [
-                "Comedy",
-                "Science Fiction"
+                "Ciencia ficción",
+                "Comedia"
             ]
         },
         {
             "id": 103,
             "title": "Venom: Habrá Matanza",
             "tmdb": "580489",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/6z044c0negypd17",
                     "lang": "Castellano",
@@ -802,15 +919,17 @@
                 "6VSqWzCj0XA"
             ],
             "genres": [
-                "Science Fiction",
-                "Action",
-                "Adventure"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 100,
             "title": "Shang-Chi y la leyenda de los Diez Anillos",
             "tmdb": "566525",
+            "provider": "Amazon",
+            "logo": "/tTk37yTkul9ujyuEleC4L2UMUro.png",
             "link": [{
                 "link": "https://www.fembed.com/v/zk744cjzj3qj534",
                 "lang": "Castellano",
@@ -827,15 +946,18 @@
                 "JuE_axN7wXI"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Fantasy"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción",
+                "Fantasía"
             ]
         },
         {
             "id": 97,
             "title": "Dune",
             "tmdb": "438631",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://diasfem.com/v/427wwbzxgwxljxy",
                 "lang": "Castellano",
@@ -851,14 +973,16 @@
                 "mSY_NbSmaUI"
             ],
             "genres": [
-                "Science Fiction",
-                "Adventure"
+                "Aventura",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 93,
             "title": "Venom",
             "tmdb": "335983",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233ie8mpzry5q",
                 "lang": "Castellano",
@@ -874,14 +998,16 @@
                 "nZ8FXOpcXSs"
             ],
             "genres": [
-                "Science Fiction",
-                "Action"
+                "Acción",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 90,
             "title": "Free Guy",
             "tmdb": "550988",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://cue-vana.com/?trembed=0&amp;trid=864&amp;trtype=1",
                 "lang": "Castellano",
@@ -897,15 +1023,18 @@
                 "VMlmcUelw-c"
             ],
             "genres": [
-                "Comedy",
-                "Adventure",
-                "Science Fiction"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción",
+                "Comedia"
             ]
         },
         {
             "id": 87,
             "title": "Spider-Man: Homecoming",
             "tmdb": "315635",
+            "provider": "Amazon",
+            "logo": "/pkIgItid7nj84SIwDdkSGXBEJ69.png",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233iey7dg5nyz",
                 "lang": "Castellano",
@@ -923,9 +1052,9 @@
                 "4szh13HYDRc"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Science Fiction",
+                "Acción",
+                "Aventura",
+                "Ciencia ficción",
                 "Drama"
             ]
         },
@@ -933,6 +1062,8 @@
             "id": 81,
             "title": "Manhattan sin salida",
             "tmdb": "535292",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/xp4yys58l1e0jy8",
                 "lang": "Castellano",
@@ -947,8 +1078,8 @@
                 "IH_8NLwmTD8"
             ],
             "genres": [
-                "Crime",
-                "Action",
+                "Acción",
+                "Crimen",
                 "Drama"
             ]
         },
@@ -956,6 +1087,8 @@
             "id": 77,
             "title": "Zapatos rojos y los siete trolls",
             "tmdb": "486589",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/mgy00s5-0elrk5-",
                 "lang": "Castellano",
@@ -970,15 +1103,17 @@
                 "auh5XbCvpEk"
             ],
             "genres": [
-                "Animation",
-                "Romance",
-                "Family"
+                "Animación",
+                "Familia",
+                "Romance"
             ]
         },
         {
             "id": 74,
             "title": "Jungle Cruise",
             "tmdb": "451048",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                     "link": "https://cue-vana.com/?trembed=2&amp;trid=508&amp;trtype=1",
                     "lang": "Castellano",
@@ -1001,15 +1136,17 @@
                 "k3zJZXbAPpE"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Fantasy"
+                "Acción",
+                "Aventura",
+                "Fantasía"
             ]
         },
         {
             "id": 71,
             "title": "Sonic 2: La Película",
             "tmdb": "675353",
+            "provider": "Amazon",
+            "logo": "/plktBdsWqDzYWafQ3hZ0JqaVU71.png",
             "link": [{
                     "link": "https://www.fembed.com/v/xp4yys57n5y1p5m",
                     "lang": "Castellano",
@@ -1031,16 +1168,19 @@
                 "cF5uf8a2Xds"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Family",
-                "Comedy"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción",
+                "Comedia",
+                "Familia"
             ]
         },
         {
             "id": 68,
             "title": "Fast & Furious 9",
             "tmdb": "385128",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/7mr66igwmj0yydx",
                 "lang": "Castellano",
@@ -1055,15 +1195,18 @@
                 "lDpuUg5_DAE"
             ],
             "genres": [
-                "Action",
-                "Crime",
-                "Thriller"
+                "Acción",
+                "Aventura",
+                "Crimen",
+                "Suspense"
             ]
         },
         {
             "id": 65,
             "title": "Trollhunters: El despertar de los titanes",
             "tmdb": "730840",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/2r4wwc20j-yx3qw",
                 "lang": "Castellano",
@@ -1078,17 +1221,19 @@
                 "7M0gBgE0JWI"
             ],
             "genres": [
-                "Animation",
-                "Fantasy",
-                "Family",
-                "Action",
-                "Adventure"
+                "Acción",
+                "Animación",
+                "Aventura",
+                "Familia",
+                "Fantasía"
             ]
         },
         {
             "id": 62,
             "title": "Jolt",
             "tmdb": "617502",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/kxy77i3g54zrn1k",
                 "lang": "Castellano",
@@ -1103,14 +1248,16 @@
                 "jVWHqqd39cM"
             ],
             "genres": [
-                "Action",
-                "Thriller"
+                "Acción",
+                "Suspense"
             ]
         },
         {
             "id": 59,
             "title": "El poder del dinero",
             "tmdb": "115348",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/dzk88cxrewj5706",
                 "lang": "Castellano",
@@ -1126,13 +1273,15 @@
             ],
             "genres": [
                 "Drama",
-                "Thriller"
+                "Suspense"
             ]
         },
         {
             "id": 56,
             "title": "Chappie",
             "tmdb": "198184",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/dzk88cxrl0g70kk",
                 "lang": "Castellano",
@@ -1150,15 +1299,17 @@
                 "Qid_7GfI7eM"
             ],
             "genres": [
-                "Crime",
-                "Action",
-                "Science Fiction"
+                "Acción",
+                "Ciencia ficción",
+                "Crimen"
             ]
         },
         {
             "id": 53,
             "title": "Alita: Ángel de combate",
             "tmdb": "399579",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/8qp77i8xme2xx0y\\",
                 "lang": "Latin",
@@ -1173,15 +1324,17 @@
                 "MjIdm3Qzbc4"
             ],
             "genres": [
-                "Action",
-                "Science Fiction",
-                "Adventure"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 50,
             "title": "Tom y Jerry",
             "tmdb": "587807",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://streamtape.com/e/V8YxdebpbLcKJXP/",
                 "lang": "Castellano",
@@ -1196,15 +1349,17 @@
                 "2TmIzPODcTs"
             ],
             "genres": [
-                "Comedy",
-                "Family",
-                "Animation"
+                "Animación",
+                "Comedia",
+                "Familia"
             ]
         },
         {
             "id": 47,
             "title": "Sonic: La película",
             "tmdb": "454626",
+            "provider": "Amazon",
+            "logo": "/nNvtExR7duAslE6TN9ojx590jMC.png",
             "link": [{
                 "link": "https://dutrag.com/v/kxy77i34g7zmpy-\\",
                 "lang": "Castellano",
@@ -1220,16 +1375,18 @@
                 "KeGqOqRREi8"
             ],
             "genres": [
-                "Action",
-                "Science Fiction",
-                "Comedy",
-                "Family"
+                "Acción",
+                "Ciencia ficción",
+                "Comedia",
+                "Familia"
             ]
         },
         {
             "id": 44,
             "title": "Miraculous World: Las aventuras de Ladybug en Nueva York",
             "tmdb": "755812",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://fembed.com/v/-4zwwapk1npnqzy",
                 "lang": "Latin",
@@ -1244,18 +1401,20 @@
                 "lvRWF_UjTbo"
             ],
             "genres": [
-                "Animation",
-                "Family",
-                "Adventure",
-                "TV Movie",
-                "Fantasy",
-                "Action"
+                "Animación",
+                "Aventura",
+                "Comedia",
+                "Disney",
+                "Familia",
+                "Película de TV"
             ]
         },
         {
             "id": 41,
             "title": "Luca",
             "tmdb": "508943",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/r4yzzaegj3kg8md\\",
                 "lang": "Castellano",
@@ -1270,16 +1429,18 @@
                 "kw50vQA1S-o"
             ],
             "genres": [
-                "Animation",
-                "Comedy",
-                "Family",
-                "Fantasy"
+                "Animación",
+                "Comedia",
+                "Familia",
+                "Fantasía"
             ]
         },
         {
             "id": 38,
             "title": "Mortal Kombat",
             "tmdb": "460465",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/wr3eecnewpg5qqg",
                 "lang": "Castellano",
@@ -1295,15 +1456,17 @@
                 "jlkTjUAWxl0"
             ],
             "genres": [
-                "Action",
-                "Fantasy",
-                "Adventure"
+                "Acción",
+                "Aventura",
+                "Fantasía"
             ]
         },
         {
             "id": 35,
             "title": "Mentes poderosas",
             "tmdb": "445651",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/5kd33cdjkjke1jz/",
                     "lang": "Castellano",
@@ -1325,18 +1488,20 @@
                 "NM_6PeHW5XM"
             ],
             "genres": [
-                "Science Fiction",
-                "Action",
+                "Acción",
+                "Aventura",
+                "Ciencia ficción",
                 "Drama",
                 "Romance",
-                "Adventure",
-                "Thriller"
+                "Suspense"
             ]
         },
         {
             "id": 32,
             "title": "Viuda negra",
             "tmdb": "497698",
+            "provider": "Amazon",
+            "logo": "/5Ul80JS1j42Cry67jTYevnO7OJ7.png",
             "link": [{
                 "link": "https://www.fembed.com/v/r4yzzaegel5lwyk\\",
                 "lang": "Castellano",
@@ -1353,15 +1518,17 @@
                 "b8EtPw5YGxk"
             ],
             "genres": [
-                "Action",
-                "Adventure",
-                "Science Fiction"
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
             ]
         },
         {
             "id": 28,
             "title": "El dragón de los deseos",
             "tmdb": "550205",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/zk744cjgr4d4016\\",
                 "lang": "Castellano",
@@ -1376,16 +1543,18 @@
                 "vv5eCLLRGFE"
             ],
             "genres": [
-                "Animation",
-                "Family",
-                "Comedy",
-                "Fantasy"
+                "Animación",
+                "Comedia",
+                "Familia",
+                "Fantasía"
             ]
         },
         {
             "id": 19,
             "title": "Miraculous World:  Shanghái, la leyenda de Ladygragon",
             "tmdb": "726684",
+            "provider": "Amazon",
+            "logo": "",
             "link": [{
                 "link": "https://streamtape.com/e/gl4q7pWyRpCx4r/",
                 "lang": "Castellano",
@@ -1400,237 +1569,26 @@
                 "zneAgD5mHxw"
             ],
             "genres": [
-                "Animation",
-                "Family",
-                "Adventure",
-                "Fantasy",
-                "Action",
-                "TV Movie"
+                "Animación",
+                "Aventura",
+                "Comedia",
+                "Familia"
             ]
         }
     ],
     "serie": [{
-            "id": 347,
-            "title": "Cars: en la carretera",
-            "tmdb": "114502",
-            "number_of_episodes": "9",
-            "number_of_seasons": "1",
-            "content": "Pixar Animation Studios vuelve al mundo de “Cars” con una nueva serie original, “Cars: en la carretera.” Los episodios siguen a Rayo McQueen y su mejor amigo Mate mientras se dirigen hacia el este desde Radiador Springs en un viaje a través del país para reunirse con la hermana de Mate. Por el camino, cada parada es toda una aventura, con impresionantes atracciones de carretera y pintorescos nuevos personajes.",
-            "poster": "/8t5SC58Mdn0cbGyM57pCPdlDKpP.jpg",
-            "release_date": "2022",
-            "runtime": "",
-            "vote": 8,
-            "temporadas": [{
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/l8nddfnmnmjpmkn",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Dino-Parque",
-                    "resumen": "Una visita al Dino-Parque se convierte en una pesadilla prehistórica protagonizada por Mate y Rayo.",
-                    "portada": "/a83R6vXXHnJnzaJpfwc4cHruKPk.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/mgy00s5q5q-l2-5",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Luces fuera",
-                    "resumen": "Empapados, el dúo se hospeda en un hotel y Rayo se ve atormentado por fantasmas de cuatro ruedas.",
-                    "portada": "/ldmJXyvMxBu2fa0B9L5jZDZUw2t.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/427wwbzmzm66264",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Fiebre de sal",
-                    "resumen": "Los mecánicos equipan a Mate como corredor y consigue velocidad récord y experiencia de otro chasis.",
-                    "portada": "/40TNl5j2FZ95u7bhvNqPwHdIvj0.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/em288i-j-jnnq40",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "La leyenda",
-                    "resumen": "Mate y Rayo se juntan con unos cazadores de criaturas para buscar a un misterioso \"monstruo\".",
-                    "portada": "/1Tnq7CWZOxjwP0vzwYwRZc9Dj3B.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/dzk88cx2x2rrdxl",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "El circo",
-                    "resumen": "Un circo destapa el miedo de Rayo a los payasos y el inesperado talento de su nueva amiga.",
-                    "portada": "/cVLZOjIA9aK90Wti67e3RUAOCbZ.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/8qp77i8d8dxxkld",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Camiones",
-                    "resumen": "Mate se hace amigo de unos camiones en la estación y celebran su solidaridad con una canción.",
-                    "portada": "/3z8cyW0N6gOblFZVizfyRxO5aq7.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/5kd33cd3d3jy815",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "La película",
-                    "resumen": "Rayo McQueen y Mate se encuentran con un rodaje de cine y les reclutan para una película de zombis.",
-                    "portada": "/yfZEQC2D6w5pHRsD7oAFtknB7lY.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/y1233ieyey3m-3x",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Los moradores de la carretera",
-                    "resumen": "Unos guerreros secuestran a Rayo y Mate, obligándolos a luchar en el peligroso Cono del Trueno.",
-                    "portada": "/7SaEhvz3aZaaK0GtNSBy3OctxG3.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/3p6wwsm5m5xemr6",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "La boda",
-                    "resumen": "En la boda de su hermana, Mate debe enfrentarse a un pasado que creía haber dejado en el retrovisor.",
-                    "portada": "/magIv71REHj30RQtw44EL6wHNb8.jpg"
-                }
-            ],
-            "genres": [
-                "Documentary",
-                "History"
-            ]
-        },
-        {
-            "id": 344,
-            "title": "¡Baymax!",
-            "tmdb": "114466",
-            "number_of_episodes": "6",
-            "number_of_seasons": "1",
-            "content": "Regresa a la fantástica ciudad de San Fransokyo, donde el afable, inflable e inimitable robot compañero de atención médica, Baymax, se dispone a hacer lo que fue programado para hacer: ayudar a los demás.",
-            "poster": "/hHile3F4B9QO87hPGbPe2kiiorv.jpg",
-            "release_date": "2022",
-            "runtime": 12,
-            "vote": 8.15,
-            "temporadas": [{
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/y1233ieyey1l-12",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Cass",
-                    "resumen": "Cass se opone a Baymax por una lesión que amenaza con impedirle atender al Gato de la Buena Suerte.",
-                    "portada": "/o04MIDckb6b8ONssc4p2CxKkaar.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/427wwbzmzm71qz8",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Kiko",
-                    "resumen": "Baymax presiona a una reacia Kiko a aliviar todos sus dolores y enfrentarse a sus miedos.",
-                    "portada": "/grnEckrSvmUZNEWGg2uPZgCUVSg.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/zk744cjzjzkwlw0",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Sofía",
-                    "resumen": "Una estudiante, Sofía, se enfrenta a un importante cambio vital con el firme apoyo de Baymax.",
-                    "portada": "/2T4kZg0GgaP8kOseIjYdxhdqC3o.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/em288i-j-jnd56x",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Mbita",
-                    "resumen": "Mbita sirve una receta familiar hasta que una inesperada alergia y Baymax le empujan a cambiar.",
-                    "portada": "/cphDanqeisx1SgFxlrlQmhTs741.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/3p6wwsm5m5x01z7",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Yachi",
-                    "resumen": "Yachi se resiste ferozmente a los esfuerzos de Baymax por aliviarle de una incómoda intrusión.",
-                    "portada": "/r69tczM3NxyPsB4mCyAhdo9V6JR.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/8qp77i8d8dx58y5",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Baymax",
-                    "resumen": "Los mejores pacientes de Baymax se unen en una frenética carrera por ayudar a su cuidador personal.",
-                    "portada": "/cgYr64o4ZWXpgXXODuZ6V6NxQFI.jpg"
-                }
-            ],
-            "genres": []
-        },
-        {
-            "id": 339,
+            "id": 422,
             "title": "She-Hulk: abogada Hulka",
             "tmdb": "92783",
-            "number_of_episodes": "4",
+            "provider": "Amazon",
+            "logo": "/nLOwQAF94fsrAX4eoH5IqcHablU.png",
+            "number_of_episodes": "5",
             "number_of_seasons": "1",
             "content": "Jennifer Walters —una abogada especializada en derecho sobrehumano— tendrá que lidiar con los problemas típicos de una treintañera soltera que además resulta ser una Hulka verde de 2 metros.",
             "poster": "/tGBZafCNpKo6l1B9tWKUaSS5MvD.jpg",
             "release_date": "2022",
             "runtime": 38,
-            "vote": 7.269,
+            "vote": 7.253,
             "temporadas": [{
                     "season": 1,
                     "links": {
@@ -1680,19 +1638,26 @@
                     "portada": "/tEgjEkcoA7JQyMec0Lpa4SaTKYC.jpg"
                 }
             ],
-            "genres": []
+            "genres": [
+                "Comedia",
+                "Disney",
+                "Marvel",
+                "Sci-Fi &amp; Fantasy"
+            ]
         },
         {
-            "id": 245,
+            "id": 419,
             "title": "Bruja Escarlata y Visión",
             "tmdb": "85271",
+            "provider": "Amazon",
+            "logo": "/2apirsj72lrLWVuWN2Spm5iEVv3.png",
             "number_of_episodes": "9",
             "number_of_seasons": "1",
             "content": "Combinando el estilo clásico de las sitcoms con el MCU (Universo Cinematográfico de Marvel), cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece.",
             "poster": "/vZnVTiJU2H8HCqvaxiHERhPyQ1T.jpg",
             "release_date": "2021",
-            "runtime": "39",
-            "vote": 8.322,
+            "runtime": "36, 30, 51",
+            "vote": 8.32,
             "temporadas": [{
                     "season": 1,
                     "links": {
@@ -1803,21 +1768,25 @@
                 }
             ],
             "genres": [
-                "Family",
-                "Fantasy"
+                "Drama",
+                "Marvel",
+                "Misterio",
+                "Sci-Fi &amp; Fantasy"
             ]
         },
         {
-            "id": 241,
+            "id": 416,
             "title": "Loki",
             "tmdb": "84958",
+            "provider": "Amazon",
+            "logo": "/3EtgZQEOKgsPgxUP2YyZlnCWgtB.png",
             "number_of_episodes": "6",
             "number_of_seasons": "1",
             "content": "La nueva serie \"Loki\", de Marvel Studios, empieza allí donde terminó \"Vengadores: Endgame\". En ella, el voluble villano Loki vuelve a ganarse el apodo de Dios del Engaño.",
             "poster": "/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
             "release_date": "2021",
             "runtime": 52,
-            "vote": 8.184,
+            "vote": 8.183,
             "temporadas": [{
                     "season": 1,
                     "links": {
@@ -1892,154 +1861,548 @@
                 }
             ],
             "genres": [
-                "Comedy",
-                "Romance",
-                "Drama"
+                "Drama",
+                "Sci-Fi &amp; Fantasy"
+            ]
+        },
+        {
+            "id": 347,
+            "title": "Cars: en la carretera",
+            "tmdb": "114502",
+            "provider": "Amazon",
+            "logo": "/bJ7zLpMBDfldKOkt9ABDskL3R1x.png",
+            "number_of_episodes": "9",
+            "number_of_seasons": "1",
+            "content": "Pixar Animation Studios vuelve al mundo de “Cars” con una nueva serie original, “Cars: en la carretera.” Los episodios siguen a Rayo McQueen y su mejor amigo Mate mientras se dirigen hacia el este desde Radiador Springs en un viaje a través del país para reunirse con la hermana de Mate. Por el camino, cada parada es toda una aventura, con impresionantes atracciones de carretera y pintorescos nuevos personajes.",
+            "poster": "/8t5SC58Mdn0cbGyM57pCPdlDKpP.jpg",
+            "release_date": "2022",
+            "runtime": "",
+            "vote": 0,
+            "temporadas": [{
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/l8nddfnmnmjpmkn",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Dino-Parque",
+                    "resumen": "Una visita al Dino-Parque se convierte en una pesadilla prehistórica protagonizada por Mate y Rayo.",
+                    "portada": "/a83R6vXXHnJnzaJpfwc4cHruKPk.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/mgy00s5q5q-l2-5",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Luces fuera",
+                    "resumen": "Empapados, el dúo se hospeda en un hotel y Rayo se ve atormentado por fantasmas de cuatro ruedas.",
+                    "portada": "/ldmJXyvMxBu2fa0B9L5jZDZUw2t.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/427wwbzmzm66264",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Fiebre de sal",
+                    "resumen": "Los mecánicos equipan a Mate como corredor y consigue velocidad récord y experiencia de otro chasis.",
+                    "portada": "/40TNl5j2FZ95u7bhvNqPwHdIvj0.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/em288i-j-jnnq40",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "La leyenda",
+                    "resumen": "Mate y Rayo se juntan con unos cazadores de criaturas para buscar a un misterioso \"monstruo\".",
+                    "portada": "/1Tnq7CWZOxjwP0vzwYwRZc9Dj3B.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/dzk88cx2x2rrdxl",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "El circo",
+                    "resumen": "Un circo destapa el miedo de Rayo a los payasos y el inesperado talento de su nueva amiga.",
+                    "portada": "/cVLZOjIA9aK90Wti67e3RUAOCbZ.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/8qp77i8d8dxxkld",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Camiones",
+                    "resumen": "Mate se hace amigo de unos camiones en la estación y celebran su solidaridad con una canción.",
+                    "portada": "/3z8cyW0N6gOblFZVizfyRxO5aq7.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/5kd33cd3d3jy815",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "La película",
+                    "resumen": "Rayo McQueen y Mate se encuentran con un rodaje de cine y les reclutan para una película de zombis.",
+                    "portada": "/yfZEQC2D6w5pHRsD7oAFtknB7lY.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/y1233ieyey3m-3x",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Los moradores de la carretera",
+                    "resumen": "Unos guerreros secuestran a Rayo y Mate, obligándolos a luchar en el peligroso Cono del Trueno.",
+                    "portada": "/7SaEhvz3aZaaK0GtNSBy3OctxG3.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/3p6wwsm5m5xemr6",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "La boda",
+                    "resumen": "En la boda de su hermana, Mate debe enfrentarse a un pasado que creía haber dejado en el retrovisor.",
+                    "portada": "/magIv71REHj30RQtw44EL6wHNb8.jpg"
+                }
+            ],
+            "genres": [
+                "Animación",
+                "Comedia",
+                "Familia"
+            ]
+        },
+        {
+            "id": 344,
+            "title": "¡Baymax!",
+            "tmdb": "114466",
+            "provider": "Amazon",
+            "logo": "",
+            "number_of_episodes": "6",
+            "number_of_seasons": "1",
+            "content": "Regresa a la fantástica ciudad de San Fransokyo, donde el afable, inflable e inimitable robot compañero de atención médica, Baymax, se dispone a hacer lo que fue programado para hacer: ayudar a los demás.",
+            "poster": "/hHile3F4B9QO87hPGbPe2kiiorv.jpg",
+            "release_date": "2022",
+            "runtime": 12,
+            "vote": 0,
+            "temporadas": [{
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/y1233ieyey1l-12",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Cass",
+                    "resumen": "Cass se opone a Baymax por una lesión que amenaza con impedirle atender al Gato de la Buena Suerte.",
+                    "portada": "/o04MIDckb6b8ONssc4p2CxKkaar.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/427wwbzmzm71qz8",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Kiko",
+                    "resumen": "Baymax presiona a una reacia Kiko a aliviar todos sus dolores y enfrentarse a sus miedos.",
+                    "portada": "/grnEckrSvmUZNEWGg2uPZgCUVSg.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/zk744cjzjzkwlw0",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Sofía",
+                    "resumen": "Una estudiante, Sofía, se enfrenta a un importante cambio vital con el firme apoyo de Baymax.",
+                    "portada": "/2T4kZg0GgaP8kOseIjYdxhdqC3o.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/em288i-j-jnd56x",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Mbita",
+                    "resumen": "Mbita sirve una receta familiar hasta que una inesperada alergia y Baymax le empujan a cambiar.",
+                    "portada": "/cphDanqeisx1SgFxlrlQmhTs741.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/3p6wwsm5m5x01z7",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Yachi",
+                    "resumen": "Yachi se resiste ferozmente a los esfuerzos de Baymax por aliviarle de una incómoda intrusión.",
+                    "portada": "/r69tczM3NxyPsB4mCyAhdo9V6JR.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/8qp77i8d8dx58y5",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Baymax",
+                    "resumen": "Los mejores pacientes de Baymax se unen en una frenética carrera por ayudar a su cuidador personal.",
+                    "portada": "/cgYr64o4ZWXpgXXODuZ6V6NxQFI.jpg"
+                }
+            ],
+            "genres": [
+                "Animación",
+                "Familia"
+            ]
+        },
+        {
+            "id": 339,
+            "title": "She-Hulk: abogada Hulka",
+            "tmdb": "92783",
+            "provider": "Amazon",
+            "logo": "/nLOwQAF94fsrAX4eoH5IqcHablU.png",
+            "number_of_episodes": "4",
+            "number_of_seasons": "1",
+            "content": "Jennifer Walters —una abogada especializada en derecho sobrehumano— tendrá que lidiar con los problemas típicos de una treintañera soltera que además resulta ser una Hulka verde de 2 metros.",
+            "poster": "/tGBZafCNpKo6l1B9tWKUaSS5MvD.jpg",
+            "release_date": "2022",
+            "runtime": 38,
+            "vote": 7.253,
+            "temporadas": [{
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/-4zwwap3p3yr5r5",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Una ira normal",
+                    "resumen": "La vida de Jen Walters da un vuelco después de que un extraño accidente le otorgue superpoderes.",
+                    "portada": "/gLyPEjBTcEor5AeBaPSXyIFDYuY.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/kxy77i3p3p5ng86",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Derecho Sobrehumano",
+                    "resumen": "Jen ficha por un prestigioso bufete, debe ejercer como Hulka y representar a un cliente difícil.",
+                    "portada": "/iTZOuOLeNN54Gm8piWSnLmN265V.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/y1233ieyeynkly8",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "El pueblo contra Emil Blonsky",
+                    "resumen": "Hulka representa a Emil Blonsky (la Abominación) pero la vista no va según lo planeado.",
+                    "portada": "/m8yN9B7UVnNv15G2F7i8WUgUNiO.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/dzk88cx2x27mw7k",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "¿Esto no es magia de verdad?",
+                    "resumen": "Wong, el cliente de Hulka, demanda a un mago por practicar las Artes Místicas sin autorización.",
+                    "portada": "/tEgjEkcoA7JQyMec0Lpa4SaTKYC.jpg"
+                }
+            ],
+            "genres": [
+                "Comedia",
+                "Marvel",
+                "Sci-Fi &amp; Fantasy"
+            ]
+        },
+        {
+            "id": 245,
+            "title": "Bruja Escarlata y Visión",
+            "tmdb": "85271",
+            "provider": "Amazon",
+            "logo": "/2apirsj72lrLWVuWN2Spm5iEVv3.png",
+            "number_of_episodes": "9",
+            "number_of_seasons": "1",
+            "content": "Combinando el estilo clásico de las sitcoms con el MCU (Universo Cinematográfico de Marvel), cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece.",
+            "poster": "/vZnVTiJU2H8HCqvaxiHERhPyQ1T.jpg",
+            "release_date": "2021",
+            "runtime": "39",
+            "vote": 8.32,
+            "temporadas": [{
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/-4zwwap32d3dr2r",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "Filmada con público en directo",
+                    "resumen": "Wanda y Visión intentan ocultar sus poderes durante la cena con el jefe de Visión y su mujer.",
+                    "portada": "/oNCzeCXFanVEWNpzRzyffhLLfZs.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/-4zwwap32dn-535",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "No cambie de canal",
+                    "resumen": "Para integrarse en el barrio, Wanda y Visión hacen un número de magia en el concurso de talentos.",
+                    "portada": "/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/7mr66ig-5p0nkzd",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "Ahora en color",
+                    "resumen": "Wanda se prepara para un parto acelerado con Visión, pero el embarazo ha afectado a sus poderes.",
+                    "portada": "/zT55iSCAWsKJOpEc6s989lgok65.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/kxy77i3pj27m7yl",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "Interrumpimos este programa",
+                    "resumen": "Desaparece Mónica Rambeau, encargada de una misión especial sobre armas sintientes.",
+                    "portada": "/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/3p6wwsm567nr4p1",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "En un episodio muy especial...",
+                    "resumen": "Visión desconfía del extraño comportamiento de los vecinos y Wanda investiga el asunto.",
+                    "portada": "/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/y1233iey7xlqqz4",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "¡Terrorífico estreno de Halloween!",
+                    "resumen": "En la confusión de Halloween, Visión investiga por su cuenta la anomalías de Westview.",
+                    "portada": "/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/8qp77i8dw13mdqm",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "Cae la cuarta pared",
+                    "resumen": "Mónica planea volver a anomalía. Wanda sortea obstáculos. Visión forja otra alianza para ayudar.",
+                    "portada": "/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/zk744cjz240d5wq",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "En episodios anteriores",
+                    "resumen": "Wanda emprende un viaje muy inquietante: ir al pasado para entender su presente y su futuro.",
+                    "portada": "/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/3p6wwsm567n30jq",
+                        "lang": "Castellano",
+                        "quality": "HD",
+                        "webPlayer": false
+                    },
+                    "name": "El final de la serie",
+                    "resumen": "Los sucesos se precipitan y ya no hay marcha atrás: nadie podrá escapar de su destino.",
+                    "portada": "/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg"
+                }
+            ],
+            "genres": [
+                "Drama",
+                "Marvel",
+                "Misterio",
+                "Sci-Fi &amp; Fantasy"
+            ]
+        },
+        {
+            "id": 241,
+            "title": "Loki",
+            "tmdb": "84958",
+            "provider": "Amazon",
+            "logo": "/3EtgZQEOKgsPgxUP2YyZlnCWgtB.png",
+            "number_of_episodes": "6",
+            "number_of_seasons": "1",
+            "content": "La nueva serie \"Loki\", de Marvel Studios, empieza allí donde terminó \"Vengadores: Endgame\". En ella, el voluble villano Loki vuelve a ganarse el apodo de Dios del Engaño.",
+            "poster": "/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "release_date": "2021",
+            "runtime": 52,
+            "vote": 8.183,
+            "temporadas": [{
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/pwy22sm-4q7ykz-",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Glorioso propósito",
+                    "resumen": "Tras robar el Teseracto en “Vengadores: Endgame”, Loki acaba en la Agencia de Variación Temporal.",
+                    "portada": "/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/103wwcjen43zwg5",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "La Variante",
+                    "resumen": "Mobius da trabajo a Loki, cuya presencia en la AVT no entusiasma a todos por igual.",
+                    "portada": "/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/dzk88cx2wk8rqg5",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Lamentis",
+                    "resumen": "Loki descubre los planes de la Variante, pero él tiene otro que alterará sus destinos.",
+                    "portada": "/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/103wwcjen43223p",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "El evento en el nexo",
+                    "resumen": "La paranoia invade la AVT. Mobius y la Cazadora B-15 buscan a Loki y Sylvie.",
+                    "portada": "/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/nnyrrf25r47j4ll",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Viaje al misterio",
+                    "resumen": "Loki intenta escapar del desolador El Vacío, el purgatorio donde conoce a variantes de sí mismo.",
+                    "portada": "/5fRAAO13URmteku8mb39V9YPJBb.jpg"
+                },
+                {
+                    "season": 1,
+                    "links": {
+                        "link": "https://www.fembed.com/v/dzk88cx2wk85j34",
+                        "lang": "Castellano",
+                        "quality": "Full HD",
+                        "webPlayer": false
+                    },
+                    "name": "Eternamente. Siempre.",
+                    "resumen": "Final de temporada y carrera contrarreloj para Loki y Sylvie, que tienen una cita con el destino.",
+                    "portada": "/98hGgYbNFP8GnZhJzAar22bWIAT.jpg"
+                }
+            ],
+            "genres": [
+                "Drama",
+                "Marvel",
+                "Sci-Fi &amp; Fantasy"
             ]
         },
         {
             "id": 148,
             "title": "El juego del calamar",
             "tmdb": "93405",
+            "provider": "Amazon",
+            "logo": "/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
             "number_of_episodes": "9",
             "number_of_seasons": "1",
             "content": "Cientos de jugadores con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro les esperan un tentador premio y desafíos letales.",
             "poster": "/yvW9VuHiwfAaTNYjALROI8evNIT.jpg",
             "release_date": "2021",
             "runtime": 54,
-            "vote": 7.8,
-            "temporadas": [{
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/dzk88cxz43dj2kd",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Luz roja, luz verde",
-                    "resumen": "El arruinado y desesperado Gi-hun acepta participar en un enigmático juego con la intención de ganar dinero fácil. Ya en la primera ronda se desata el horror.",
-                    "portada": "/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/g5q88c-5g1dg23g",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Infierno",
-                    "resumen": "El grupo, en desacuerdo sobre si continuar o no, decide someterlo a votación. Pero la cruda realidad de sus vidas podría ser tan despiadada como el propio juego.",
-                    "portada": "/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/wr3eecny106kqr7",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "El hombre del paraguas",
-                    "resumen": "Llegan nuevos participantes a la ronda siguiente (que promete ser tan dulce como mortal) con algunos ases en la manga. Entretanto, Jun-ho se cuela dentro.",
-                    "portada": "/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/l8nddfn8xqylmgd",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "El equipo es lo primero",
-                    "resumen": "A pesar de las alianzas entre jugadores, nadie está a salvo cuando apagan la luz. El equipo de Gi-hun necesita una estrategia para el tercer juego.",
-                    "portada": "/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/q3ykkce7mdx5rwd",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Un mundo justo",
-                    "resumen": "Gi-hun y su equipo hacen turnos para vigilar de noche. Los enmascarados tienen problemas con uno de sus aliados en la conspiración.",
-                    "portada": "/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/427wwbzqg2l36j7",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Gganbu",
-                    "resumen": "Los participantes se emparejan para el cuarto juego. Gi-hun tiene un dilema moral, Sang-woo elige salvarse a sí mismo y Sae-byeok cuenta la historia de su vida.",
-                    "portada": "/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/427wwbzqg2l3wxx",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Personas importantes",
-                    "resumen": "El líder enmascarado recibe a invitados importantes que vienen a disfrutar del espectáculo en primera fila. Algunos participantes caen ante la presión del quinto juego.",
-                    "portada": "/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/y1233ie82r-qlg5",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "El líder",
-                    "resumen": "La desconfianza y la repulsión aumentan entre los finalistas antes del último juego. Jun-ho consigue huir y se propone destapar lo que ocurre dentro de las instalaciones.",
-                    "portada": "/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg"
-                },
-                {
-                    "season": 1,
-                    "links": {
-                        "link": "https://www.fembed.com/v/y1233ie82rw0mnq",
-                        "lang": "Castellano",
-                        "quality": "Full HD",
-                        "webPlayer": false
-                    },
-                    "name": "Un día con suerte",
-                    "resumen": "El juego final presenta otra prueba cruel... pero, esta vez, su conclusión dependerá de un solo participante. El creador del juego diabólico sale a la luz.",
-                    "portada": "/sKeQbHeEUQLyoSdopa0QXm604cz.jpg"
-                }
-            ],
-            "genres": []
+            "vote": 7.832,
+            "temporadas": [],
+            "genres": [
+                "Action &amp; Adventure",
+                "Drama",
+                "Misterio",
+                "Netflix"
+            ]
         }
     ],
     "colecciones": [{
-            "name": "Sonic El Erizo - Colección",
-            "portada": "/8jfHKno4tRZ621Uzw4heEaJPgRM.jpg",
-            "poster": "/fx5ap8o1RDwSoiEJho98jyussY3.jpg",
-            "content": "Sigue las aventuras de Sonic, un erizo antropomórfico nacido con la capacidad de correr más rápido que la velocidad del sonido, de ahí su nombre, y posee reflejos ultrarrápidos para igualar su velocidad.",
-            "id": [
-                47,
-                71
-            ]
-        },
-        {
-            "name": "A todo gas - Colección",
-            "portada": "/gC9BUFiROWtaMsluGYziZ6lR4OJ.jpg",
-            "poster": "/pCM9fXulC0fZ2sAqxOo9JlOxPmX.jpg",
-            "content": "Películas de acción donde el origen es dar caza a unos corredores ilegales que cometen robos. La historia avanza y las tornas cambian y forman un equipo para ayudar al FBI, pero... ¿seguirán así por mucho tiempo?",
-            "id": [
-                68,
-                159,
-                248
-            ]
-        }
-    ]
+        "name": "Sonic El Erizo - Colección",
+        "portada": "/8jfHKno4tRZ621Uzw4heEaJPgRM.jpg",
+        "poster": "/fx5ap8o1RDwSoiEJho98jyussY3.jpg",
+        "content": "Sigue las aventuras de Sonic, un erizo antropomórfico nacido con la capacidad de correr más rápido que la velocidad del sonido, de ahí su nombre, y posee reflejos ultrarrápidos para igualar su velocidad.",
+        "id": [
+            231,
+            13
+        ]
+    }]
 }
