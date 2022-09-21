@@ -6,7 +6,7 @@
             "id": 466,
             "title": "Wonder Woman 1984",
             "tmdb": "464052",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://fembed.com/v/em288i-jxw22zk7",
@@ -32,7 +32,7 @@
             "id": 465,
             "title": "Inhumano (Unhuman)",
             "tmdb": "839678",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/xpegzh5gq1qw161",
@@ -54,7 +54,7 @@
             "id": 464,
             "title": "The Batman",
             "tmdb": "414906",
-            "provider": "Amazon",
+            "provider": "HBO Max",
             "logo": "/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png",
             "link": [{
                 "link": "https://www.fembed.com/v/pwpgmsm-e7edqy3",
@@ -82,7 +82,7 @@
             "id": 463,
             "title": "Déjate llevar",
             "tmdb": "778106",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/8q-0zf8d0pmnpg3",
@@ -104,7 +104,7 @@
             "id": 462,
             "title": "Clean",
             "tmdb": "689700",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "/5mbBz8EDF4LcNKFpfPjreE9uy2n.png",
             "link": [{
                 "link": "https://www.fembed.com/v/dzl5xfx2e88emnj",
@@ -127,7 +127,7 @@
             "id": 461,
             "title": "Obi-Wan Kenobi: El Regreso del Jedi",
             "tmdb": "1015606",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/6z-72f078508m7j",
@@ -148,7 +148,7 @@
             "id": 460,
             "title": "Alien: Covenant",
             "tmdb": "126889",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/wrlgkunrzjl3dk7",
@@ -173,7 +173,7 @@
             "id": 334,
             "title": "Thor: Love and Thunder",
             "tmdb": "616037",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/sR0hyRuXG3xnkC9pKkZvxzORQ4.png",
             "link": [{
                 "link": "https://www.fembed.com/v/mgy00s5qe-egm26",
@@ -199,7 +199,7 @@
             "id": 330,
             "title": "Mis dos vidas",
             "tmdb": "805327",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/x4dxlu5gz8lgm4n",
@@ -229,7 +229,7 @@
             "id": 254,
             "title": "The Amazing Spider-Man 2: El poder de Electro",
             "tmdb": "102382",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "/pCuPf4lcfry1QoWeUGevnIDPVEC.png",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233iey7d8rz1n",
@@ -254,7 +254,7 @@
             "id": 251,
             "title": "Spider-Man",
             "tmdb": "557",
-            "provider": "Amazon",
+            "provider": "HBO Max",
             "logo": "/jm1Lv8eTW8GGkzTjxwTQ2BcuIzW.png",
             "link": [{
                 "link": "https://www.fembed.com/v/5kd33cd3npmlj4x",
@@ -278,7 +278,7 @@
             "id": 248,
             "title": "Fast & Furious: Hobbs & Shaw",
             "tmdb": "384018",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/dzk88cx2w1m-lmj",
@@ -303,7 +303,7 @@
             "id": 238,
             "title": "Nop",
             "tmdb": "762504",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://fembed.com/v/l8nddfnmz6np7x7",
@@ -329,7 +329,7 @@
             "id": 228,
             "title": "Minions: El origen de Gru",
             "tmdb": "438148",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "/2tHEeYyrrw4VwydLdILcgSI5ENm.png",
             "link": [{
                     "link": "https://www.fembed.com/v/2r4wwc2488d6yyg",
@@ -363,7 +363,7 @@
             "id": 209,
             "title": "Dark Cloud",
             "tmdb": "897424",
-            "provider": "Amazon",
+            "provider": "Planet Horror Amazon Channel",
             "logo": "/q6vNHgFMvwSDvjAgsPFWM5V7AHp.png",
             "link": [{
                 "link": "https://fembed.com/v/r4yzzaen5zewkx1",
@@ -386,7 +386,7 @@
             "id": 204,
             "title": "Despierta la furia",
             "tmdb": "637649",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "/u0mUUFk9owtYlBwWxKpSKC2SQcX.png",
             "link": [{
                     "link": "https://www.fembed.com/v/-4zwwap882dzpq4",
@@ -418,7 +418,7 @@
             "id": 200,
             "title": "Ambulance. Plan de huida",
             "tmdb": "763285",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/q3ykkce713z0lrj",
@@ -443,7 +443,7 @@
             "id": 196,
             "title": "Ainbo: La guerrera del Amazonas",
             "tmdb": "588921",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/8qp77i84lqy1m6l",
@@ -469,7 +469,7 @@
             "id": 452,
             "title": "Disomnia",
             "tmdb": "615658",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/103wwcj75dlpg3q",
@@ -492,7 +492,7 @@
             "id": 192,
             "title": "Disomnia",
             "tmdb": "615658",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/103wwcj75dlpg3q",
@@ -515,7 +515,7 @@
             "id": 189,
             "title": "Doctor Strange en el multiverso de la locura",
             "tmdb": "453395",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/6PaRKeCVDysn8OuwwCButVJzuh7.png",
             "link": [{
                 "link": "https://www.fembed.com/v/-4zwwap32r6k7wd",
@@ -546,7 +546,7 @@
             "id": 183,
             "title": "Mechanic: Resurrection",
             "tmdb": "278924",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/zk744cjqgdqp0dr",
@@ -629,7 +629,7 @@
             "id": 151,
             "title": "Morbius",
             "tmdb": "526896",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/g5q88c-5gjp46pg",
@@ -661,7 +661,7 @@
             "id": 145,
             "title": "Godzilla: Rey de los Monstruos",
             "tmdb": "373571",
-            "provider": "Amazon",
+            "provider": "HBO Max",
             "logo": "/y3hS5daf3ytCqqjtuPI2lU8HAYQ.png",
             "link": [{
                     "link": "https://www.fembed.com/v/g5q88c-k3-d3p0x",
@@ -694,7 +694,7 @@
             "id": 130,
             "title": "Uncharted",
             "tmdb": "335787",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/427wwbzr70yrr7l",
@@ -721,7 +721,7 @@
             "id": 127,
             "title": "Enemigo inmortal",
             "tmdb": "460648",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/wr3eecn4pl1k87z",
@@ -746,7 +746,7 @@
             "id": 124,
             "title": "El Proyecto Adam",
             "tmdb": "696806",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "/nURceh6rHmRZ0cDAN6H16eS0KCv.png",
             "link": [{
                 "link": "https://www.fembed.com/v/zk744cjy-z7e3jd",
@@ -772,7 +772,7 @@
             "id": 121,
             "title": "Hitman: Agente 47",
             "tmdb": "249070",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233iednql076n",
@@ -797,7 +797,7 @@
             "id": 118,
             "title": "Spider-Man: No Way Home",
             "tmdb": "634649",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "/iTssYtQcC9fk9AiENAgisXjUmJ5.png",
             "link": [{
                 "link": "https://www.fembed.com/v/5kd33cdpr84m5p-",
@@ -822,7 +822,7 @@
             "id": 112,
             "title": "La gran fuga",
             "tmdb": "404733",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/kxy77i326481n0e",
@@ -847,7 +847,7 @@
             "id": 109,
             "title": "Ejército de los ladrones",
             "tmdb": "796499",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "/bD2VhvMCLbqAM8mCrFeeRYmyF6Z.png",
             "link": [{
                 "link": "https://diasfem.com/v/103wwcj1wggqdwj",
@@ -895,7 +895,7 @@
             "id": 103,
             "title": "Venom: Habrá Matanza",
             "tmdb": "580489",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/6z044c0negypd17",
@@ -928,7 +928,7 @@
             "id": 100,
             "title": "Shang-Chi y la leyenda de los Diez Anillos",
             "tmdb": "566525",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/tTk37yTkul9ujyuEleC4L2UMUro.png",
             "link": [{
                 "link": "https://www.fembed.com/v/zk744cjzj3qj534",
@@ -956,7 +956,7 @@
             "id": 97,
             "title": "Dune",
             "tmdb": "438631",
-            "provider": "Amazon",
+            "provider": "HBO Max",
             "logo": "",
             "link": [{
                 "link": "https://diasfem.com/v/427wwbzxgwxljxy",
@@ -981,7 +981,7 @@
             "id": 93,
             "title": "Venom",
             "tmdb": "335983",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233ie8mpzry5q",
@@ -1006,7 +1006,7 @@
             "id": 90,
             "title": "Free Guy",
             "tmdb": "550988",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://cue-vana.com/?trembed=0&amp;trid=864&amp;trtype=1",
@@ -1033,7 +1033,7 @@
             "id": 87,
             "title": "Spider-Man: Homecoming",
             "tmdb": "315635",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "/pkIgItid7nj84SIwDdkSGXBEJ69.png",
             "link": [{
                 "link": "https://www.fembed.com/v/y1233iey7dg5nyz",
@@ -1087,7 +1087,7 @@
             "id": 77,
             "title": "Zapatos rojos y los siete trolls",
             "tmdb": "486589",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/mgy00s5-0elrk5-",
@@ -1112,7 +1112,7 @@
             "id": 74,
             "title": "Jungle Cruise",
             "tmdb": "451048",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                     "link": "https://cue-vana.com/?trembed=2&amp;trid=508&amp;trtype=1",
@@ -1145,7 +1145,7 @@
             "id": 71,
             "title": "Sonic 2: La Película",
             "tmdb": "675353",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "/plktBdsWqDzYWafQ3hZ0JqaVU71.png",
             "link": [{
                     "link": "https://www.fembed.com/v/xp4yys57n5y1p5m",
@@ -1179,7 +1179,7 @@
             "id": 68,
             "title": "Fast & Furious 9",
             "tmdb": "385128",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/7mr66igwmj0yydx",
@@ -1205,7 +1205,7 @@
             "id": 65,
             "title": "Trollhunters: El despertar de los titanes",
             "tmdb": "730840",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/2r4wwc20j-yx3qw",
@@ -1256,7 +1256,7 @@
             "id": 59,
             "title": "El poder del dinero",
             "tmdb": "115348",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/dzk88cxrewj5706",
@@ -1280,7 +1280,7 @@
             "id": 56,
             "title": "Chappie",
             "tmdb": "198184",
-            "provider": "Amazon",
+            "provider": null,
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/dzk88cxrl0g70kk",
@@ -1308,7 +1308,7 @@
             "id": 53,
             "title": "Alita: Ángel de combate",
             "tmdb": "399579",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/8qp77i8xme2xx0y\\",
@@ -1333,7 +1333,7 @@
             "id": 50,
             "title": "Tom y Jerry",
             "tmdb": "587807",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "",
             "link": [{
                 "link": "https://streamtape.com/e/V8YxdebpbLcKJXP/",
@@ -1358,7 +1358,7 @@
             "id": 47,
             "title": "Sonic: La película",
             "tmdb": "454626",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "/nNvtExR7duAslE6TN9ojx590jMC.png",
             "link": [{
                 "link": "https://dutrag.com/v/kxy77i34g7zmpy-\\",
@@ -1385,7 +1385,7 @@
             "id": 44,
             "title": "Miraculous World: Las aventuras de Ladybug en Nueva York",
             "tmdb": "755812",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://fembed.com/v/-4zwwapk1npnqzy",
@@ -1413,7 +1413,7 @@
             "id": 41,
             "title": "Luca",
             "tmdb": "508943",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/r4yzzaegj3kg8md\\",
@@ -1439,7 +1439,7 @@
             "id": 38,
             "title": "Mortal Kombat",
             "tmdb": "460465",
-            "provider": "Amazon",
+            "provider": "Movistar Plus",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/wr3eecnewpg5qqg",
@@ -1465,7 +1465,7 @@
             "id": 35,
             "title": "Mentes poderosas",
             "tmdb": "445651",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                     "link": "https://www.fembed.com/v/5kd33cdjkjke1jz/",
@@ -1500,7 +1500,7 @@
             "id": 32,
             "title": "Viuda negra",
             "tmdb": "497698",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/5Ul80JS1j42Cry67jTYevnO7OJ7.png",
             "link": [{
                 "link": "https://www.fembed.com/v/r4yzzaegel5lwyk\\",
@@ -1527,7 +1527,7 @@
             "id": 28,
             "title": "El dragón de los deseos",
             "tmdb": "550205",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "",
             "link": [{
                 "link": "https://www.fembed.com/v/zk744cjgr4d4016\\",
@@ -1553,7 +1553,7 @@
             "id": 19,
             "title": "Miraculous World:  Shanghái, la leyenda de Ladygragon",
             "tmdb": "726684",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "link": [{
                 "link": "https://streamtape.com/e/gl4q7pWyRpCx4r/",
@@ -1580,7 +1580,7 @@
             "id": 422,
             "title": "She-Hulk: abogada Hulka",
             "tmdb": "92783",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/nLOwQAF94fsrAX4eoH5IqcHablU.png",
             "number_of_episodes": "5",
             "number_of_seasons": "1",
@@ -1649,7 +1649,7 @@
             "id": 419,
             "title": "Bruja Escarlata y Visión",
             "tmdb": "85271",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/2apirsj72lrLWVuWN2Spm5iEVv3.png",
             "number_of_episodes": "9",
             "number_of_seasons": "1",
@@ -1778,7 +1778,7 @@
             "id": 416,
             "title": "Loki",
             "tmdb": "84958",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/3EtgZQEOKgsPgxUP2YyZlnCWgtB.png",
             "number_of_episodes": "6",
             "number_of_seasons": "1",
@@ -1869,7 +1869,7 @@
             "id": 347,
             "title": "Cars: en la carretera",
             "tmdb": "114502",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/bJ7zLpMBDfldKOkt9ABDskL3R1x.png",
             "number_of_episodes": "9",
             "number_of_seasons": "1",
@@ -1997,7 +1997,7 @@
             "id": 344,
             "title": "¡Baymax!",
             "tmdb": "114466",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "",
             "number_of_episodes": "6",
             "number_of_seasons": "1",
@@ -2088,7 +2088,7 @@
             "id": 339,
             "title": "She-Hulk: abogada Hulka",
             "tmdb": "92783",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/nLOwQAF94fsrAX4eoH5IqcHablU.png",
             "number_of_episodes": "4",
             "number_of_seasons": "1",
@@ -2156,7 +2156,7 @@
             "id": 245,
             "title": "Bruja Escarlata y Visión",
             "tmdb": "85271",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/2apirsj72lrLWVuWN2Spm5iEVv3.png",
             "number_of_episodes": "9",
             "number_of_seasons": "1",
@@ -2285,7 +2285,7 @@
             "id": 241,
             "title": "Loki",
             "tmdb": "84958",
-            "provider": "Amazon",
+            "provider": "Disney Plus",
             "logo": "/3EtgZQEOKgsPgxUP2YyZlnCWgtB.png",
             "number_of_episodes": "6",
             "number_of_seasons": "1",
@@ -2377,7 +2377,7 @@
             "id": 148,
             "title": "El juego del calamar",
             "tmdb": "93405",
-            "provider": "Amazon",
+            "provider": "Netflix",
             "logo": "/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
             "number_of_episodes": "9",
             "number_of_seasons": "1",
