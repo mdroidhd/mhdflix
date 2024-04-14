@@ -1,0 +1,20 @@
+/* Estilo para //* (verde) */
+.monaco-editor .token.comment.special[text="//*"] {
+    color: green;
+}
+
+/* Estilo para //! (rojo) */
+.monaco-editor .token.comment.special[text="//!"] {
+    color: red;
+}
+
+/* Estilo para //? (azul) */
+.monaco-editor .token.comment.special[text="//?"] {
+    color: blue;
+}
+
+/* Estilo para // // (tachado y gris) */
+.monaco-editor .token.comment.special[text="// //"] {
+    color: grey;
+    text-decoration: line-through;
+}
