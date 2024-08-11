@@ -1,4 +1,5 @@
 {
-"maintenance": false,
-"admob": true
+    "maintenance": false,
+    "admob": true,
+    "ad_service": "wortise"
 }
