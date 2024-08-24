@@ -1,5 +1,5 @@
 {
     "maintenance": false,
     "admob": true,
-    "ad_service": "unity"
+    "ad_service": "admob"
 }
